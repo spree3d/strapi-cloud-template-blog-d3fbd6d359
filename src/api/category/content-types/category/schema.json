@@ -26,6 +26,12 @@
     },
     "description": {
       "type": "text"
+    },
+    "backgroundColor": {
+      "type": "string"
+    },
+    "primaryColor": {
+      "type": "string"
     }
   }
 }
