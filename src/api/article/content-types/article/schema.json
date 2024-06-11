@@ -15,7 +15,7 @@
     "oembed": {
       "type": "customField",
       "customField": "plugin::oembed.oembed"
-    }
+    },
     "title": {
       "type": "string"
     },
